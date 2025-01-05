@@ -1,11 +1,11 @@
 {
-	"id": "aws-emoji-plugin",
-	"name": "AWS Emoji Plugin",
+	"id": "sample-plugin",
+	"name": "AWS Logo Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "adds emojis depending on the category of an AWS service",
-	"author": "cpazro",
-	"authorUrl": "https://github.com/cpazro",
-	"fundingUrl": "https://github.com/cpazro",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
